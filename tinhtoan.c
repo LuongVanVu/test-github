@@ -13,5 +13,6 @@ int main(int argc, char const *argv[])
     int c = 6;
     printf("abc");
     printf("Hello");
+    printf("123");
     return 0;
 }
