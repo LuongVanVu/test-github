@@ -11,6 +11,7 @@ int main(int argc, char const *argv[])
         a *= i;
     }
     int c = 6;
+    printf("abc");
     printf("Hello");
     return 0;
 }
